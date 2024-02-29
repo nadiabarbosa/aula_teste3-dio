@@ -31,7 +31,7 @@ class hero {
         
 // mensagem do console
 
-		console.log(`O ${this.heroType} atacou usando ${attack}`)
+		console.log(`O ${this.heroType} ${this.heroName} atacou usando ${attack}`)
     }
 }
 
